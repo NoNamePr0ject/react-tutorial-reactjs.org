@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 const User = {
-  name: 'Rafał',
+  name: 'John',
   lastname: 'Nowak',
 };
 
